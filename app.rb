@@ -1,4 +1,4 @@
-class App < Sinatra::Base
+class Application < Sinatra::Base
 
   # Define your GET '/' route below and respond with "Hello, World!"
   GET '/' do
